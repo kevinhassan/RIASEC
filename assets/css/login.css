@@ -1,0 +1,9 @@
+.circular.studentCustom.icon{
+    background: #F8E6AE url(../img/student.svg) no-repeat 0px 0px;
+}
+.circular.adminCustom.icon{
+    background: #F8E6AE url(../img/admin.svg) no-repeat 0px 0px;
+}
+.ui.center.aligned.grid{
+    margin-bottom: 100px;
+}

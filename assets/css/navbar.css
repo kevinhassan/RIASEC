@@ -1,0 +1,15 @@
+.secondary.pointing.menu .toc.item {
+    display: none;
+}
+/*Afficher sidebar si la taille est celle d'un ipad ou inférieur*/
+@media only screen and (max-width: 768px) {
+    .secondary.pointing.menu .item, .secondary.pointing.menu .menu,.ui.fixed.menu .ui.container .right.menu {
+        display: none;
+    }
+    .secondary.pointing.menu .toc.item {
+        display: block;
+    }
+}
+.ui.fixed.menu{
+    box-shadow: black 1px 4px 10px 1px;
+}

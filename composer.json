@@ -1,0 +1,24 @@
+{
+    "name": "polytech-riasec",
+    "description": "Questionnaire en ligne base sur le modele RIASEC",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+          "name": "Kévin Hassan",
+          "email": "kevin.hassan@etu.umontpellier.fr",
+          "homepage": "http://kevinhassan.fr",
+          "role": "Project Manager"
+        }
+    ],
+    "require": {
+      "semantic/ui": "^2.2",
+      "components/jquery": "^3.1",
+      "components/font-awesome": "^4.7",
+      "nnnick/chartjs": "^2.4",
+      "firebase/php-jwt": "^4.0"
+    },
+    "config": {
+        "vendor-dir": "plugins"
+    }
+}
