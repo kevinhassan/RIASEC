@@ -1,8 +1,30 @@
-RIASEC by [kevinhassan]('http://github.com/kevinhassan')
+# RIASEC - Holland Codes 
 
 ------
 
-[TOC]
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Introduction](#introduction)
+  - [Modele conceptuel de données](#modele-conceptuel-de-donn%C3%A9es)
+  - [Modele logique de donnees](#modele-logique-de-donnees)
+  - [Regles de gestion](#regles-de-gestion)
+      - [Entité Etudiant](#entit%C3%A9-etudiant)
+      - [Entité Classe](#entit%C3%A9-classe)
+      - [Entité Département](#entit%C3%A9-d%C3%A9partement)
+      - [Entité Administrateur](#entit%C3%A9-administrateur)
+      - [Entité Personnalite](#entit%C3%A9-personnalite)
+      - [Entité Groupe](#entit%C3%A9-groupe)
+      - [Entité Proposition](#entit%C3%A9-proposition)
+- [Installation](#installation)
+  - [Installer l'application](#installer-lapplication)
+  - [Installer la  base de donnée Postgresql](#installer-la--base-de-donn%C3%A9e-postgresql)
+- [Technologies utilisées](#technologies-utilis%C3%A9es)
+- [Contact](#contact)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## Introduction 
 
@@ -87,16 +109,16 @@ N.B:
 
 ## Technologies utilisées
 
-<img src="./Documents/postgresql.svg" title="postgresql">Base de donnée <a href="https://www.postgresql.org/">Postgresql</a> 
+<img src="./Documents/postgresql.png" title="postgresql">Base de donnée <a href="https://www.postgresql.org/">Postgresql</a> 
 
-<img src="./Documents/php.svg" title="php"> <a href="https://secure.php.net/">Php</a> version 7.0
+<img src="./Documents/php.png" title="php"> <a href="https://secure.php.net/">Php</a> version 7.0
 
-<img src="./Documents/semantic-ui.svg" title="semantic-ui"><a href="semantic-ui.com" title="framework Css">Semantic-ui</a> 
+<img src="./Documents/semantic-ui.png" title="semantic-ui"><a href="semantic-ui.com" title="framework Css">Semantic-ui</a> 
 
 ## Contact
 
 Kévin Hassan : [:e-mail:](mailto:kevin.hassan@etu.umontpellier.fr) 
 
-Documentation : [​:book:​]("https://kevinhassan.github.io/riasec/") ​​
+Documentation : [:book:](https://kevinhassan.github.io/riasec/) 
 
-[Dépôt Github]("https://github.com/kevinhassan/PiscineProjectIG3")
+[Dépôt Github](https://github.com/kevinhassan/RIASEC)
