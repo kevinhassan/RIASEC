@@ -51,7 +51,7 @@
                         <h4 class="ui inverted header">Création du site</h4>
                         <p>Ce site a été réalisé dans le cadre d'un projet scolaire.</p>
                         <p>Basé sur du pur MVC PHP et mise en forme par <a href="http://semantic-ui.com/" title="Framework CSS" target="_blank">Semantic-UI</a> </p>
-                        <p>Voir le dépôt officiel : <a href="https://github.com/kevinhassan/PiscineProjectIG3" target="_blank"><i class="github icon"></i></a></p>
+                        <p>Voir le dépôt officiel : <a href="https://github.com/kevinhassan/RIASEC" target="_blank"><i class="github icon"></i></a></p>
                     </div>
                 </div>
                 <div class="ui inverted section divider"></div>
