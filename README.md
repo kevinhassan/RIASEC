@@ -119,6 +119,6 @@ N.B:
 
 Kévin Hassan : [:e-mail:](mailto:kevin.hassan@etu.umontpellier.fr) 
 
-Documentation : [:book:](https://kevinhassan.github.io/riasec/) 
+Documentation : [:book:](https://kevinhassan.github.io/RIASEC/) 
 
 [Dépôt Github](https://github.com/kevinhassan/RIASEC)
